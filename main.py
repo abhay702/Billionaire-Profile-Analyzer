@@ -14,8 +14,7 @@ st.subheader('Explore this page')
 # Loading the data file.
 df = pd.read_csv('Data/billionaires.csv')
 
-# Assume you might need to clean 'Networth' as previously discussed
-# Convert 'Networth' from '$219 B' to numeric format, if necessary
+
 df['Networth'] = df['Networth'].replace('[\$, B]', '', regex=True).astype(float)
 
 # Create a pie chart using Plotly Express
