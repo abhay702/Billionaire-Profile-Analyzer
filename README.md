@@ -68,10 +68,5 @@ This project would not have been possible without the following resources:
   - [Pillow (PIL)](https://python-pillow.org/): For image processing capabilities.
   - [Requests](https://requests.readthedocs.io/en/master/): For making HTTP requests.
   - [Python CSV Module](https://docs.python.org/3/library/csv.html): For reading and writing CSV files.
-  
-- **Individual Contributions**
-  - [Your Name](#): For development and maintenance.
-  - [Collaborator's Name](#): For additional features and testing.
-
 
 ---
